@@ -19,6 +19,7 @@ header {
     width: 100%;
 }
 i,a {
+    outline: none;
     cursor: pointer;
 }
 
